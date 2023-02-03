@@ -24,6 +24,13 @@ h2 {
 /*   margin-top:0; */
 }
 
+h3 {
+  color: hotpink;
+  font-size: 18pt;
+  font-family: 'Anton', sans-serif;
+  
+}
+
 button {
   font-family: "Inconsolata", monospace;
   background-color: black;
